@@ -55,7 +55,7 @@ vent = 'https://produto.mercadolivre.com.br/MLB-688536851-eletro-ventilador-vent
 bomba = 'https://produto.mercadolivre.com.br/MLB-1070042334-bomba-de-combustivel-universal-uno-mille-fire-evo10-14flex-_JM#position=2&type=item&tracking_id=e047c1cc-7b24-4052-bf7e-a5159243201b'
 refil = 'https://produto.mercadolivre.com.br/MLB-1180368585-refil-bomba-de-combustivel-yamaha-fazer-150-codigo-10180-_JM#position=3&type=item&tracking_id=3f833210-522e-478e-a237-2efc1a0f915a'
 
-# Não se esquaça de também adicionar o item aqui, junto com o preço
+# Não se esqueça de também adicionar o item aqui, junto com o preço
 itens = [{'url': radiador, 'price': 160, 'email': False, 'store': 'mercado'}, #'price': preço máximo para o email ser enviado
          {'url': vent, 'price': 100, 'email': False, 'store': 'mercado'},
          {'url': bomba, 'price': 130, 'email': False, 'store': 'mercado'},
